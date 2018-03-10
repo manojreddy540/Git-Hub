@@ -1,1 +1,5 @@
 this is my secondfile to modify somethig to do with it
+<<<<<<< HEAD
+=======
+this is tge modification for testing for direct commting without adding
+>>>>>>> master

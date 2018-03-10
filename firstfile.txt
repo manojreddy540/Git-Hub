@@ -1,1 +1,6 @@
 saran is going to practice git commands today
+<<<<<<< HEAD
+=======
+
+checking merge command 
+>>>>>>> master
