@@ -1,1 +1,3 @@
 saran is going to practice git commands today
+
+checking merge command 
