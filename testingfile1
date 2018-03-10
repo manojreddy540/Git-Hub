@@ -1,2 +1,10 @@
 this file is created in testing branch
+<<<<<<< HEAD
 ma going to be added all these files to test fetcvh command
+=======
+<<<<<<< HEAD
+
+this is for trying restet command
+=======
+>>>>>>> master
+>>>>>>> testing
